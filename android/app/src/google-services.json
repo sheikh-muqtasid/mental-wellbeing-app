@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "927018569367",
+    "project_id": "my-app-f45d8",
+    "storage_bucket": "my-app-f45d8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927018569367:android:d6357f1041460a4bb5a3d2",
+        "android_client_info": {
+          "package_name": "com.example.mental_wellbeing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927018569367-0t26cem1jdpkag7cttho2s8k99mtvb6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrRp3DsScrEMrGGO8NJjo-dVjKjjKxSEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927018569367-0t26cem1jdpkag7cttho2s8k99mtvb6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927018569367:android:736d7f07e50a4dd1b5a3d2",
+        "android_client_info": {
+          "package_name": "mental.wellbeing.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927018569367-ot890b8umdnoq5t79bgsehocod33jtug.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mental.wellbeing.app",
+            "certificate_hash": "3ae54461d430b5c9ca46816c60eb721d070d613d"
+          }
+        },
+        {
+          "client_id": "927018569367-0t26cem1jdpkag7cttho2s8k99mtvb6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrRp3DsScrEMrGGO8NJjo-dVjKjjKxSEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927018569367-0t26cem1jdpkag7cttho2s8k99mtvb6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

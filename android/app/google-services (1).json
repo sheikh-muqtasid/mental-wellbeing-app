@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "927018569367",
+    "firebase_url": "https://my-app-f45d8-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "my-app-f45d8",
+    "storage_bucket": "my-app-f45d8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927018569367:android:d6357f1041460a4bb5a3d2",
+        "android_client_info": {
+          "package_name": "com.example.mental_wellbeing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927018569367-u1vavvgmdgcs4rh1c3q0g5amev04gbcu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mental_wellbeing",
+            "certificate_hash": "9ccd4b2e191172eb36967e6e153cd302a1cdc21e"
+          }
+        },
+        {
+          "client_id": "927018569367-0t26cem1jdpkag7cttho2s8k99mtvb6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrRp3DsScrEMrGGO8NJjo-dVjKjjKxSEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927018569367-0t26cem1jdpkag7cttho2s8k99mtvb6a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "927018569367-ov5fltgfoko6prhbdknbo1teev4mmtot.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mentalWellbeing"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927018569367:android:736d7f07e50a4dd1b5a3d2",
+        "android_client_info": {
+          "package_name": "mental.wellbeing.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927018569367-t0monn0pgk6pbn1gq7omu06j61dij984.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mental.wellbeing.app",
+            "certificate_hash": "9ccd4b2e191172eb36967e6e153cd302a1cdc21e"
+          }
+        },
+        {
+          "client_id": "927018569367-0t26cem1jdpkag7cttho2s8k99mtvb6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrRp3DsScrEMrGGO8NJjo-dVjKjjKxSEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927018569367-0t26cem1jdpkag7cttho2s8k99mtvb6a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "927018569367-ov5fltgfoko6prhbdknbo1teev4mmtot.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mentalWellbeing"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927018569367:android:a1c0918e3cb71b1db5a3d2",
+        "android_client_info": {
+          "package_name": "mental_wellbeing.App"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927018569367-lq9b2h67e5mdelbnvs6a108d3o3l6dfm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mental_wellbeing.App",
+            "certificate_hash": "9ccd4b2e191172eb36967e6e153cd302a1cdc21e"
+          }
+        },
+        {
+          "client_id": "927018569367-0t26cem1jdpkag7cttho2s8k99mtvb6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrRp3DsScrEMrGGO8NJjo-dVjKjjKxSEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927018569367-0t26cem1jdpkag7cttho2s8k99mtvb6a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "927018569367-ov5fltgfoko6prhbdknbo1teev4mmtot.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mentalWellbeing"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

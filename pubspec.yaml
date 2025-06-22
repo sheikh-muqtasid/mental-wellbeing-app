@@ -1,0 +1,76 @@
+name: mental_wellbeing
+description: "Mental Well-being App for stress management."
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.3.0
+  google_fonts: ^6.2.1 
+  path_provider: ^2.0.11 
+  share_plus: ^11.0.0 
+  google_sign_in: ^6.1.5
+  cloud_firestore: ^5.6.6
+  firebase_auth_web: ^5.14.2
+  firebase_core: ^3.13.0
+  firebase_auth: ^5.5.2
+  firebase_storage: ^12.4.5
+  logger: ^2.5.0
+  googleapis: ^14.0.0
+  googleapis_auth: ^1.0.1
+  firebase_data_connect: ^0.1.0
+  dash_chat_2: ^0.0.21
+  flutter_gemini: ^3.0.0
+  image_picker: ^1.1.2
+  cupertino_icons: ^1.0.8 
+  firebase_messaging: ^15.2.5
+  #jitsi_meet: ^4.0.0
+  url_launcher: ^6.1.10
+  shared_preferences: ^2.0.15
+  #jitsi_meet_web_plugin: ^2.0.0
+  permission_handler: ^12.0.0+1 # update permission handler
+  intl: ^0.19.0 
+  #jitsi_meet_wrapper: ^0.2.0+1
+  
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  mockito: ^5.4.0
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  fonts:
+    - family: Tagesschrift
+      fonts:
+        - asset: assets/Tagesschrift-Regular.ttf
+
+
+
+  assets:
+    - assets/google_logo.png
+    - assets/character.png
+    - assets/Mental_Wellbeing_App_Logo.png
+    - assets/session1.jpg
+    - assets/session2.jpg
+    - assets/session3.jpg
+    - assets/session4.jpg
+    - assets/session5.jpg
+    - assets/session6.jpg
+    - assets/session7.jpg
+
+  
+
+
+linter:
+  rules:
+    unused_import: false
+
